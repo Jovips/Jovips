@@ -5,6 +5,8 @@
 <p> 📖 <i>
 A novice software developer with a strong aptitude for problem-solving, excelling in collaborative team environments. Committed to learning coding with a diverse and promising skill set, with a focus on writing good quality code.</i></p>
 
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me :**
 
 - 📖 I’m currently learning Python, JavaScript and JAVA. </br>
