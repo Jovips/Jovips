@@ -1,6 +1,6 @@
 # Hey there  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, Welcome to my Github Profile
 
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;I´m+Joao+Vitor!;Studing+for+become+a+Full+Stack+Developer..."/>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=FF0000&vCenter=true&width=435&lines=Hi!;I´m+Joao+Vitor!;Studing+for+become+a+Full+Stack+Developer..."/>
 
 <p> 📖 <i>
 A novice software developer with a strong aptitude for problem-solving, excelling in collaborative team environments. Committed to learning coding with a diverse and promising skill set, with a focus on writing good quality code.</i></p>
