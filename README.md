@@ -15,7 +15,7 @@ A novice software developer with a strong aptitude for problem-solving, excellin
 - 💡  I’m curious about AI. </br>
 - 🔧 I’m looking to collaborate on progress of humanit and 
 advancement of technology </br>
-- 📫 How to reach me: </br></br> <a href="https://wa.me/5531992905693"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>  <a href="https://www.linkedin.com/in/jovips/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> </br>
+- 📫 How to reach me: </br></br> <a href="https://wa.me/5531992905693"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>  <a href="https://www.linkedin.com/in/jovips/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:jonnvittor1709@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a> </br>
 
   
 <hr>
