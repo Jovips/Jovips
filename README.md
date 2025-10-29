@@ -11,7 +11,7 @@ A novice software developer with a strong aptitude for problem-solving, excellin
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me :**
 
-- 📖 I’m currently learning Python, JavaScript and JAVA. </br>
+- 📖 I’m currently learning Python. </br>
 - 💡  I’m curious about AI. </br>
 - 🔧 I’m looking to collaborate on progress of humanit and 
 advancement of technology </br>
