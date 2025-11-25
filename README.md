@@ -20,7 +20,7 @@ Um desenvolvedor de software iniciante com forte aptidão para a resolução de 
 </div>
 
 ---
-### 💻 Linguagens mais usadas
+### 💻 Linguagens Mais Usadas
 
 <div align="center">
 
