@@ -5,6 +5,7 @@
 <p>📖 <i>
 Um desenvolvedor de software iniciante com forte aptidão para a resolução de problemas, destacando-se em ambientes de equipe colaborativos. Comprometido em aprender programação, possui um conjunto de habilidades diversificado e promissor, com foco em escrever código de alta qualidade.
 </i></p>
+<p>💼 Trabalho atualmente como Dev na DigitalPrime</p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 
