@@ -1,62 +1,57 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to my GitHub profile
+<h1 align="center">João Vitor</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=FF0000&vCenter=true&width=435&lines=Hi!;I'm+Joao+Vitor!;Full+Stack+Developer+in+training..." />
+<p align="center">
+  Full Stack Developer • Software Engineer in training
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Building+web+applications;Focused+on+clean+code+and+scalable+systems;Always+learning+and+improving" />
+</p>
 
 ---
 
-<p>📖 <i>
-Desenvolvedor de software iniciante, com forte foco em resolução de problemas e desenvolvimento de aplicações web.
-Tenho facilidade em trabalhar em equipe e estou constantemente evoluindo minhas habilidades para escrever código limpo, eficiente e escalável.
-</i></p>
+## 🧠 Sobre
 
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
+<p align="center">
+Desenvolvedor de software iniciante com foco em desenvolvimento Full Stack e resolução de problemas.
+Busco constantemente evoluir em boas práticas, código limpo e construção de aplicações escaláveis.
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Front-end & Back-end  
-<div align="left">
+### Front-end & Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,java" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,java" />
-
-</div>
-
-### 🛠️ Tools
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</div>
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jovips&theme=tokyonight" />
+</p>
 
-<img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jovips&theme=tokyonight"
-/>
-
-<img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jovips&theme=tokyonight"
-/>
-
-<img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jovips&theme=tokyonight"
-/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jovips&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jovips&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus
 
-- Improving Full Stack development skills  
-- Building real-world projects  
-- Learning system design fundamentals  
+- Full Stack development (React + Node.js)  
+- API design and backend architecture  
+- Clean code & software engineering principles  
+- Building real-world scalable projects  
 
 ---
 
@@ -64,8 +59,12 @@ Tenho facilidade em trabalhar em equipe e estou constantemente evoluindo minhas 
 
 - 📧 Email: **jonnvittor1709@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jovips  
+- 💻 GitHub: https://github.com/Jovips  
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  <i>"Simplicity is the highest form of engineering."</i>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
